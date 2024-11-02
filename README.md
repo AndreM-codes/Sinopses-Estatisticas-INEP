@@ -12,11 +12,11 @@ Este projeto é uma ferramenta que permite concatenar e simplificar todos os arq
 
 ### Antes
 
-![alt text](<_img/Captura 1.png>)
+![alt text](<doc/imgs/Captura 1.png>)
 
 ### Depois
 
-![alt text](<_img/Captura 2.png>)
+![alt text](<doc/imgs/Captura 2.png>)
 
 ## Como Usar
 
